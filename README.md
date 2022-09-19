@@ -1,2 +1,2 @@
 # easy-saving
-PHP web to manage personal finances
+PHP web app to manage personal finances
